@@ -36,7 +36,7 @@
 }
 // end
 
-//functional entites
+//brush entites
 {
 "spawnflags" "0"
 "classname" "func_door"
@@ -51,6 +51,16 @@
 "spawnflags" "0"
 "classname" "func_door"
 "model" "*3"
+}
+{
+"spawnflags" "0"
+"classname" "func_plat"
+"model" "*4"
+}
+{
+"spawnflags" "0"
+"classname" "func_plat"
+"model" "*5"
 }
 
 //regular entites
