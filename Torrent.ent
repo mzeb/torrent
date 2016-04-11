@@ -62,6 +62,17 @@
 "classname" "func_plat"
 "model" "*5"
 }
+{
+"spawnflags" "0"
+"classname" "func_plat"
+"model" "*5"
+}
+{
+"spawnflags" "0"
+"classname" "trigger_teleport"
+"model" "*6"
+"target" "blueport"
+}
 
 //regular entites
 {
@@ -199,27 +210,7 @@
 "classname" "light"
 "angle" "-0"
 "origin" "160 -296 32"
-}
-{
-"spawnflags" "0"
-"light" "512"
-"classname" "light"
-"angle" "-0"
-"origin" "160 -712 128"
-}
-{
-"spawnflags" "0"
-"light" "512"
-"classname" "light"
-"angle" "-0"
-"origin" "160 -856 128"
-}
-{
-"spawnflags" "0"
-"light" "512"
-"classname" "light"
-"angle" "-0"
-"origin" "160 -1000 128"
+"targetname" "blueport"
 }
 {
 "spawnflags" "0"
@@ -402,25 +393,64 @@
 }
 {
 "spawnflags" "0"
-"classname" "item_flag_team1"
-"origin" "160 104 160"
+"light" "512"
+"classname" "light"
 "angle" "-0"
+"origin" "416 -1608 128"
 }
 {
 "spawnflags" "0"
-"classname" "info_player_team1"
-"origin" "224 296 160"
-"angle" "270"
-}
-{
-"spawnflags" "0"
-"classname" "item_flag_team2"
-"origin" "160 40 160"
+"classname" "light_flame_large_yellow"
+"origin" "32 -880 60"
 "angle" "-0"
+"light" "384"
 }
 {
 "spawnflags" "0"
-"classname" "info_player_team2"
-"origin" "224 264 160"
-"angle" "270"
+"classname" "light_flame_large_yellow"
+"origin" "-96 -880 60"
+"angle" "-0"
+"light" "384"
+}
+{
+"spawnflags" "0"
+"classname" "light_flame_large_yellow"
+"origin" "-96 -1328 60"
+"angle" "-0"
+"light" "384"
+}
+{
+"spawnflags" "0"
+"classname" "light_flame_large_yellow"
+"origin" "32 -1328 60"
+"angle" "-0"
+"light" "384"
+}
+{
+"spawnflags" "0"
+"classname" "light_flame_large_yellow"
+"origin" "16 -640 28"
+"angle" "-0"
+"light" "384"
+}
+{
+"spawnflags" "0"
+"classname" "light_flame_large_yellow"
+"origin" "-160 -480 28"
+"angle" "-0"
+"light" "384"
+}
+{
+"spawnflags" "0"
+"classname" "light_flame_large_yellow"
+"origin" "160 -480 28"
+"angle" "-0"
+"light" "384"
+}
+{
+"spawnflags" "0"
+"classname" "light_globe"
+"origin" "360 -1104 224"
+"angle" "-0"
+"light" "192"
 }
