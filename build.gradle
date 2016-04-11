@@ -1,0 +1,22 @@
+def mapName = "Torrent"
+def mapsDir = "/Applications/Games/Quake/id1/maps"
+
+task clean << {
+	delete fileTree(dir: './' , include: '*.bsp')
+	delete fileTree(dir: './' , include: '*.log')
+	delete fileTree(dir: './' , include: '*.prt')
+	delete 'autosave'
+}
+
+task qbsp(type:Exec) {
+	commandLine 'qbsp',  mapName + '.map'
+}
+
+task light(type:Exec, dependsOn: ':qbsp') {
+	commandLine 'light',  mapName + '.bsp'
+}
+
+task deploy(type:Copy, dependsOn: ':light'){
+	into mapsDir
+	include(mapName + '.bsp')
+}
