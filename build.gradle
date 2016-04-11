@@ -1,7 +1,7 @@
 def mapName = "Torrent"
 def mapsDir = "/Applications/Games/Quake/id1/maps"
 
-task clean << {
+task clean {
 	delete fileTree(dir: './' , include: '*.bsp')
 	delete fileTree(dir: './' , include: '*.log')
 	delete fileTree(dir: './' , include: '*.prt')
@@ -17,6 +17,7 @@ task light(type:Exec, dependsOn: ':qbsp') {
 }
 
 task deploy(type:Copy, dependsOn: ':light'){
+	from './'
 	into mapsDir
 	include(mapName + '.bsp')
 }
