@@ -73,6 +73,12 @@
 "model" "*6"
 "target" "blueport"
 }
+{
+"spawnflags" "0"
+"classname" "trigger_teleport"
+"model" "*7"
+"target" "redport"
+}
 
 //regular entites
 {
@@ -208,7 +214,7 @@
 "light" "128"
 "style" "11"
 "classname" "light"
-"angle" "-0"
+"angle" "180"
 "origin" "160 -296 32"
 "targetname" "blueport"
 }
