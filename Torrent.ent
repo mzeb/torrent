@@ -79,6 +79,28 @@
 "model" "*7"
 "target" "redport"
 }
+{
+"spawnflags" "0"
+"classname" "func_door"
+"model" "*8"
+"angle" "180"
+}
+{
+"spawnflags" "0"
+"classname" "func_door"
+"model" "*9"
+}
+{
+"spawnflags" "0"
+"classname" "func_door"
+"model" "*10"
+}
+{
+"spawnflags" "0"
+"classname" "func_door"
+"model" "*11"
+"angle" "180"
+}
 
 //regular entites
 {
@@ -399,13 +421,6 @@
 }
 {
 "spawnflags" "0"
-"light" "512"
-"classname" "light"
-"angle" "-0"
-"origin" "416 -1608 128"
-}
-{
-"spawnflags" "0"
 "classname" "light_flame_large_yellow"
 "origin" "32 -880 60"
 "angle" "-0"
@@ -459,4 +474,1138 @@
 "origin" "360 -1104 224"
 "angle" "-0"
 "light" "192"
+}
+{
+"spawnflags" "0"
+"classname" "item_key1"
+"origin" "176 320 156"
+"angle" "-0"
+}
+{
+"spawnflags" "0"
+"light" "128"
+"style" "11"
+"classname" "light"
+"angle" "-0"
+"origin" "144 -1480 32"
+"targetname" "redport"
+}
+{
+"spawnflags" "0"
+"classname" "light"
+"origin" "-64 -256 320"
+"angle" "-0"
+"light" "256"
+}
+{
+"spawnflags" "0"
+"classname" "light"
+"origin" "-64 -384 320"
+"angle" "-0"
+"light" "256"
+}
+{
+"spawnflags" "0"
+"classname" "light"
+"origin" "-64 -512 320"
+"angle" "-0"
+"light" "256"
+}
+{
+"spawnflags" "0"
+"classname" "light"
+"origin" "64 -256 320"
+"angle" "-0"
+"light" "256"
+}
+{
+"spawnflags" "0"
+"classname" "light"
+"origin" "64 -384 320"
+"angle" "-0"
+"light" "256"
+}
+{
+"spawnflags" "0"
+"classname" "light"
+"origin" "64 -512 320"
+"angle" "-0"
+"light" "256"
+}
+{
+"spawnflags" "0"
+"classname" "light"
+"origin" "128 -256 320"
+"angle" "-0"
+"light" "256"
+}
+{
+"spawnflags" "0"
+"classname" "light"
+"origin" "128 -384 320"
+"angle" "-0"
+"light" "256"
+}
+{
+"spawnflags" "0"
+"classname" "light"
+"origin" "128 -512 320"
+"angle" "-0"
+"light" "256"
+}
+{
+"spawnflags" "0"
+"classname" "light"
+"origin" "192 -256 320"
+"angle" "-0"
+"light" "256"
+}
+{
+"spawnflags" "0"
+"classname" "light"
+"origin" "192 -384 320"
+"angle" "-0"
+"light" "256"
+}
+{
+"spawnflags" "0"
+"classname" "light"
+"origin" "192 -512 320"
+"angle" "-0"
+"light" "256"
+}
+{
+"spawnflags" "0"
+"classname" "light"
+"origin" "256 -256 320"
+"angle" "-0"
+"light" "256"
+}
+{
+"spawnflags" "0"
+"classname" "light"
+"origin" "256 -384 320"
+"angle" "-0"
+"light" "256"
+}
+{
+"spawnflags" "0"
+"classname" "light"
+"origin" "256 -512 320"
+"angle" "-0"
+"light" "256"
+}
+{
+"spawnflags" "0"
+"classname" "light"
+"origin" "320 -256 320"
+"angle" "-0"
+"light" "256"
+}
+{
+"spawnflags" "0"
+"classname" "light"
+"origin" "320 -384 320"
+"angle" "-0"
+"light" "256"
+}
+{
+"spawnflags" "0"
+"classname" "light"
+"origin" "320 -512 320"
+"angle" "-0"
+"light" "256"
+}
+{
+"spawnflags" "0"
+"classname" "light"
+"origin" "384 -256 320"
+"angle" "-0"
+"light" "256"
+}
+{
+"spawnflags" "0"
+"classname" "light"
+"origin" "384 -384 320"
+"angle" "-0"
+"light" "256"
+}
+{
+"spawnflags" "0"
+"classname" "light"
+"origin" "384 -512 320"
+"angle" "-0"
+"light" "256"
+}
+{
+"spawnflags" "0"
+"classname" "light"
+"origin" "448 -256 320"
+"angle" "-0"
+"light" "256"
+}
+{
+"spawnflags" "0"
+"classname" "light"
+"origin" "448 -384 320"
+"angle" "-0"
+"light" "256"
+}
+{
+"spawnflags" "0"
+"classname" "light"
+"origin" "448 -512 320"
+"angle" "-0"
+"light" "256"
+}
+{
+"spawnflags" "0"
+"classname" "light"
+"origin" "-0 -256 320"
+"angle" "-0"
+"light" "256"
+}
+{
+"spawnflags" "0"
+"classname" "light"
+"origin" "-0 -384 320"
+"angle" "-0"
+"light" "256"
+}
+{
+"spawnflags" "0"
+"classname" "light"
+"origin" "-0 -512 320"
+"angle" "-0"
+"light" "256"
+}
+{
+"spawnflags" "0"
+"classname" "light"
+"origin" "-64 -576 320"
+"angle" "-0"
+"light" "256"
+}
+{
+"spawnflags" "0"
+"classname" "light"
+"origin" "-0 -576 320"
+"angle" "-0"
+"light" "256"
+}
+{
+"spawnflags" "0"
+"classname" "light"
+"origin" "64 -576 320"
+"angle" "-0"
+"light" "256"
+}
+{
+"spawnflags" "0"
+"classname" "light"
+"origin" "128 -576 320"
+"angle" "-0"
+"light" "256"
+}
+{
+"spawnflags" "0"
+"classname" "light"
+"origin" "192 -576 320"
+"angle" "-0"
+"light" "256"
+}
+{
+"spawnflags" "0"
+"classname" "light"
+"origin" "256 -576 320"
+"angle" "-0"
+"light" "256"
+}
+{
+"spawnflags" "0"
+"classname" "light"
+"origin" "320 -576 320"
+"angle" "-0"
+"light" "256"
+}
+{
+"spawnflags" "0"
+"classname" "light"
+"origin" "384 -576 320"
+"angle" "-0"
+"light" "256"
+}
+{
+"spawnflags" "0"
+"classname" "light"
+"origin" "-64 -640 320"
+"angle" "-0"
+"light" "256"
+}
+{
+"spawnflags" "0"
+"classname" "light"
+"origin" "-0 -640 320"
+"angle" "-0"
+"light" "256"
+}
+{
+"spawnflags" "0"
+"classname" "light"
+"origin" "64 -640 320"
+"angle" "-0"
+"light" "256"
+}
+{
+"spawnflags" "0"
+"classname" "light"
+"origin" "128 -640 320"
+"angle" "-0"
+"light" "256"
+}
+{
+"spawnflags" "0"
+"classname" "light"
+"origin" "192 -640 320"
+"angle" "-0"
+"light" "256"
+}
+{
+"spawnflags" "0"
+"classname" "light"
+"origin" "256 -640 320"
+"angle" "-0"
+"light" "256"
+}
+{
+"spawnflags" "0"
+"classname" "light"
+"origin" "320 -640 320"
+"angle" "-0"
+"light" "256"
+}
+{
+"spawnflags" "0"
+"classname" "light"
+"origin" "384 -640 320"
+"angle" "-0"
+"light" "256"
+}
+{
+"spawnflags" "0"
+"classname" "light"
+"origin" "-64 -704 320"
+"angle" "-0"
+"light" "256"
+}
+{
+"spawnflags" "0"
+"classname" "light"
+"origin" "-0 -704 320"
+"angle" "-0"
+"light" "256"
+}
+{
+"spawnflags" "0"
+"classname" "light"
+"origin" "64 -704 320"
+"angle" "-0"
+"light" "256"
+}
+{
+"spawnflags" "0"
+"classname" "light"
+"origin" "128 -704 320"
+"angle" "-0"
+"light" "256"
+}
+{
+"spawnflags" "0"
+"classname" "light"
+"origin" "192 -704 320"
+"angle" "-0"
+"light" "256"
+}
+{
+"spawnflags" "0"
+"classname" "light"
+"origin" "256 -704 320"
+"angle" "-0"
+"light" "256"
+}
+{
+"spawnflags" "0"
+"classname" "light"
+"origin" "320 -704 320"
+"angle" "-0"
+"light" "256"
+}
+{
+"spawnflags" "0"
+"classname" "light"
+"origin" "384 -704 320"
+"angle" "-0"
+"light" "256"
+}
+{
+"spawnflags" "0"
+"classname" "light"
+"origin" "-64 -768 320"
+"angle" "-0"
+"light" "256"
+}
+{
+"spawnflags" "0"
+"classname" "light"
+"origin" "-0 -768 320"
+"angle" "-0"
+"light" "256"
+}
+{
+"spawnflags" "0"
+"classname" "light"
+"origin" "64 -768 320"
+"angle" "-0"
+"light" "256"
+}
+{
+"spawnflags" "0"
+"classname" "light"
+"origin" "128 -768 320"
+"angle" "-0"
+"light" "256"
+}
+{
+"spawnflags" "0"
+"classname" "light"
+"origin" "192 -768 320"
+"angle" "-0"
+"light" "256"
+}
+{
+"spawnflags" "0"
+"classname" "light"
+"origin" "256 -768 320"
+"angle" "-0"
+"light" "256"
+}
+{
+"spawnflags" "0"
+"classname" "light"
+"origin" "320 -768 320"
+"angle" "-0"
+"light" "256"
+}
+{
+"spawnflags" "0"
+"classname" "light"
+"origin" "384 -768 320"
+"angle" "-0"
+"light" "256"
+}
+{
+"spawnflags" "0"
+"classname" "light"
+"origin" "384 -832 320"
+"angle" "-0"
+"light" "256"
+}
+{
+"spawnflags" "0"
+"classname" "light"
+"origin" "320 -832 320"
+"angle" "-0"
+"light" "256"
+}
+{
+"spawnflags" "0"
+"classname" "light"
+"origin" "256 -832 320"
+"angle" "-0"
+"light" "256"
+}
+{
+"spawnflags" "0"
+"classname" "light"
+"origin" "192 -832 320"
+"angle" "-0"
+"light" "256"
+}
+{
+"spawnflags" "0"
+"classname" "light"
+"origin" "128 -832 320"
+"angle" "-0"
+"light" "256"
+}
+{
+"spawnflags" "0"
+"classname" "light"
+"origin" "64 -832 320"
+"angle" "-0"
+"light" "256"
+}
+{
+"spawnflags" "0"
+"classname" "light"
+"origin" "-0 -832 320"
+"angle" "-0"
+"light" "256"
+}
+{
+"spawnflags" "0"
+"classname" "light"
+"origin" "-64 -832 320"
+"angle" "-0"
+"light" "256"
+}
+{
+"spawnflags" "0"
+"classname" "light"
+"origin" "384 -1792 320"
+"angle" "-0"
+"light" "256"
+}
+{
+"spawnflags" "0"
+"classname" "light"
+"origin" "320 -1792 320"
+"angle" "-0"
+"light" "256"
+}
+{
+"spawnflags" "0"
+"classname" "light"
+"origin" "256 -1792 320"
+"angle" "-0"
+"light" "256"
+}
+{
+"spawnflags" "0"
+"classname" "light"
+"origin" "192 -1792 320"
+"angle" "-0"
+"light" "256"
+}
+{
+"spawnflags" "0"
+"classname" "light"
+"origin" "128 -1792 320"
+"angle" "-0"
+"light" "256"
+}
+{
+"spawnflags" "0"
+"classname" "light"
+"origin" "64 -1792 320"
+"angle" "-0"
+"light" "256"
+}
+{
+"spawnflags" "0"
+"classname" "light"
+"origin" "-0 -1792 320"
+"angle" "-0"
+"light" "256"
+}
+{
+"spawnflags" "0"
+"classname" "light"
+"origin" "-64 -1792 320"
+"angle" "-0"
+"light" "256"
+}
+{
+"spawnflags" "0"
+"classname" "light"
+"origin" "384 -1728 320"
+"angle" "-0"
+"light" "256"
+}
+{
+"spawnflags" "0"
+"classname" "light"
+"origin" "320 -1728 320"
+"angle" "-0"
+"light" "256"
+}
+{
+"spawnflags" "0"
+"classname" "light"
+"origin" "256 -1728 320"
+"angle" "-0"
+"light" "256"
+}
+{
+"spawnflags" "0"
+"classname" "light"
+"origin" "192 -1728 320"
+"angle" "-0"
+"light" "256"
+}
+{
+"spawnflags" "0"
+"classname" "light"
+"origin" "128 -1728 320"
+"angle" "-0"
+"light" "256"
+}
+{
+"spawnflags" "0"
+"classname" "light"
+"origin" "64 -1728 320"
+"angle" "-0"
+"light" "256"
+}
+{
+"spawnflags" "0"
+"classname" "light"
+"origin" "-0 -1728 320"
+"angle" "-0"
+"light" "256"
+}
+{
+"spawnflags" "0"
+"classname" "light"
+"origin" "-64 -1728 320"
+"angle" "-0"
+"light" "256"
+}
+{
+"spawnflags" "0"
+"classname" "light"
+"origin" "384 -1664 320"
+"angle" "-0"
+"light" "256"
+}
+{
+"spawnflags" "0"
+"classname" "light"
+"origin" "320 -1664 320"
+"angle" "-0"
+"light" "256"
+}
+{
+"spawnflags" "0"
+"classname" "light"
+"origin" "256 -1664 320"
+"angle" "-0"
+"light" "256"
+}
+{
+"spawnflags" "0"
+"classname" "light"
+"origin" "192 -1664 320"
+"angle" "-0"
+"light" "256"
+}
+{
+"spawnflags" "0"
+"classname" "light"
+"origin" "128 -1664 320"
+"angle" "-0"
+"light" "256"
+}
+{
+"spawnflags" "0"
+"classname" "light"
+"origin" "64 -1664 320"
+"angle" "-0"
+"light" "256"
+}
+{
+"spawnflags" "0"
+"classname" "light"
+"origin" "-0 -1664 320"
+"angle" "-0"
+"light" "256"
+}
+{
+"spawnflags" "0"
+"classname" "light"
+"origin" "-64 -1664 320"
+"angle" "-0"
+"light" "256"
+}
+{
+"spawnflags" "0"
+"classname" "light"
+"origin" "384 -1600 320"
+"angle" "-0"
+"light" "256"
+}
+{
+"spawnflags" "0"
+"classname" "light"
+"origin" "320 -1600 320"
+"angle" "-0"
+"light" "256"
+}
+{
+"spawnflags" "0"
+"classname" "light"
+"origin" "256 -1600 320"
+"angle" "-0"
+"light" "256"
+}
+{
+"spawnflags" "0"
+"classname" "light"
+"origin" "192 -1600 320"
+"angle" "-0"
+"light" "256"
+}
+{
+"spawnflags" "0"
+"classname" "light"
+"origin" "128 -1600 320"
+"angle" "-0"
+"light" "256"
+}
+{
+"spawnflags" "0"
+"classname" "light"
+"origin" "64 -1600 320"
+"angle" "-0"
+"light" "256"
+}
+{
+"spawnflags" "0"
+"classname" "light"
+"origin" "-0 -1600 320"
+"angle" "-0"
+"light" "256"
+}
+{
+"spawnflags" "0"
+"classname" "light"
+"origin" "-64 -1600 320"
+"angle" "-0"
+"light" "256"
+}
+{
+"spawnflags" "0"
+"classname" "light"
+"origin" "384 -1536 320"
+"angle" "-0"
+"light" "256"
+}
+{
+"spawnflags" "0"
+"classname" "light"
+"origin" "320 -1536 320"
+"angle" "-0"
+"light" "256"
+}
+{
+"spawnflags" "0"
+"classname" "light"
+"origin" "256 -1536 320"
+"angle" "-0"
+"light" "256"
+}
+{
+"spawnflags" "0"
+"classname" "light"
+"origin" "192 -1536 320"
+"angle" "-0"
+"light" "256"
+}
+{
+"spawnflags" "0"
+"classname" "light"
+"origin" "128 -1536 320"
+"angle" "-0"
+"light" "256"
+}
+{
+"spawnflags" "0"
+"classname" "light"
+"origin" "64 -1536 320"
+"angle" "-0"
+"light" "256"
+}
+{
+"spawnflags" "0"
+"classname" "light"
+"origin" "-0 -1536 320"
+"angle" "-0"
+"light" "256"
+}
+{
+"spawnflags" "0"
+"classname" "light"
+"origin" "-64 -1536 320"
+"angle" "-0"
+"light" "256"
+}
+{
+"spawnflags" "0"
+"classname" "light"
+"origin" "384 -1472 320"
+"angle" "-0"
+"light" "256"
+}
+{
+"spawnflags" "0"
+"classname" "light"
+"origin" "320 -1472 320"
+"angle" "-0"
+"light" "256"
+}
+{
+"spawnflags" "0"
+"classname" "light"
+"origin" "256 -1472 320"
+"angle" "-0"
+"light" "256"
+}
+{
+"spawnflags" "0"
+"classname" "light"
+"origin" "192 -1472 320"
+"angle" "-0"
+"light" "256"
+}
+{
+"spawnflags" "0"
+"classname" "light"
+"origin" "128 -1472 320"
+"angle" "-0"
+"light" "256"
+}
+{
+"spawnflags" "0"
+"classname" "light"
+"origin" "64 -1472 320"
+"angle" "-0"
+"light" "256"
+}
+{
+"spawnflags" "0"
+"classname" "light"
+"origin" "-0 -1472 320"
+"angle" "-0"
+"light" "256"
+}
+{
+"spawnflags" "0"
+"classname" "light"
+"origin" "-64 -1472 320"
+"angle" "-0"
+"light" "256"
+}
+{
+"spawnflags" "0"
+"classname" "light"
+"origin" "384 -1408 320"
+"angle" "-0"
+"light" "256"
+}
+{
+"spawnflags" "0"
+"classname" "light"
+"origin" "320 -1408 320"
+"angle" "-0"
+"light" "256"
+}
+{
+"spawnflags" "0"
+"classname" "light"
+"origin" "256 -1408 320"
+"angle" "-0"
+"light" "256"
+}
+{
+"spawnflags" "0"
+"classname" "light"
+"origin" "192 -1408 320"
+"angle" "-0"
+"light" "256"
+}
+{
+"spawnflags" "0"
+"classname" "light"
+"origin" "128 -1408 320"
+"angle" "-0"
+"light" "256"
+}
+{
+"spawnflags" "0"
+"classname" "light"
+"origin" "64 -1408 320"
+"angle" "-0"
+"light" "256"
+}
+{
+"spawnflags" "0"
+"classname" "light"
+"origin" "-0 -1408 320"
+"angle" "-0"
+"light" "256"
+}
+{
+"spawnflags" "0"
+"classname" "light"
+"origin" "-64 -1408 320"
+"angle" "-0"
+"light" "256"
+}
+{
+"spawnflags" "0"
+"classname" "light"
+"origin" "384 -1344 320"
+"angle" "-0"
+"light" "256"
+}
+{
+"spawnflags" "0"
+"classname" "light"
+"origin" "320 -1344 320"
+"angle" "-0"
+"light" "256"
+}
+{
+"spawnflags" "0"
+"classname" "light"
+"origin" "256 -1344 320"
+"angle" "-0"
+"light" "256"
+}
+{
+"spawnflags" "0"
+"classname" "light"
+"origin" "192 -1344 320"
+"angle" "-0"
+"light" "256"
+}
+{
+"spawnflags" "0"
+"classname" "light"
+"origin" "128 -1344 320"
+"angle" "-0"
+"light" "256"
+}
+{
+"spawnflags" "0"
+"classname" "light"
+"origin" "64 -1344 320"
+"angle" "-0"
+"light" "256"
+}
+{
+"spawnflags" "0"
+"classname" "light"
+"origin" "-0 -1344 320"
+"angle" "-0"
+"light" "256"
+}
+{
+"spawnflags" "0"
+"classname" "light"
+"origin" "-64 -1344 320"
+"angle" "-0"
+"light" "256"
+}
+{
+"spawnflags" "0"
+"classname" "light"
+"origin" "128 -896 320"
+"angle" "-0"
+"light" "256"
+}
+{
+"spawnflags" "0"
+"classname" "light"
+"origin" "64 -896 320"
+"angle" "-0"
+"light" "256"
+}
+{
+"spawnflags" "0"
+"classname" "light"
+"origin" "-0 -896 320"
+"angle" "-0"
+"light" "256"
+}
+{
+"spawnflags" "0"
+"classname" "light"
+"origin" "-64 -896 320"
+"angle" "-0"
+"light" "256"
+}
+{
+"spawnflags" "0"
+"classname" "light"
+"origin" "128 -960 320"
+"angle" "-0"
+"light" "256"
+}
+{
+"spawnflags" "0"
+"classname" "light"
+"origin" "64 -960 320"
+"angle" "-0"
+"light" "256"
+}
+{
+"spawnflags" "0"
+"classname" "light"
+"origin" "-0 -960 320"
+"angle" "-0"
+"light" "256"
+}
+{
+"spawnflags" "0"
+"classname" "light"
+"origin" "-64 -960 320"
+"angle" "-0"
+"light" "256"
+}
+{
+"spawnflags" "0"
+"classname" "light"
+"origin" "128 -1024 320"
+"angle" "-0"
+"light" "256"
+}
+{
+"spawnflags" "0"
+"classname" "light"
+"origin" "64 -1024 320"
+"angle" "-0"
+"light" "256"
+}
+{
+"spawnflags" "0"
+"classname" "light"
+"origin" "-0 -1024 320"
+"angle" "-0"
+"light" "256"
+}
+{
+"spawnflags" "0"
+"classname" "light"
+"origin" "-64 -1024 320"
+"angle" "-0"
+"light" "256"
+}
+{
+"spawnflags" "0"
+"classname" "light"
+"origin" "128 -1088 320"
+"angle" "-0"
+"light" "256"
+}
+{
+"spawnflags" "0"
+"classname" "light"
+"origin" "64 -1088 320"
+"angle" "-0"
+"light" "256"
+}
+{
+"spawnflags" "0"
+"classname" "light"
+"origin" "-0 -1088 320"
+"angle" "-0"
+"light" "256"
+}
+{
+"spawnflags" "0"
+"classname" "light"
+"origin" "-64 -1088 320"
+"angle" "-0"
+"light" "256"
+}
+{
+"spawnflags" "0"
+"classname" "light"
+"origin" "128 -1152 320"
+"angle" "-0"
+"light" "256"
+}
+{
+"spawnflags" "0"
+"classname" "light"
+"origin" "64 -1152 320"
+"angle" "-0"
+"light" "256"
+}
+{
+"spawnflags" "0"
+"classname" "light"
+"origin" "-0 -1152 320"
+"angle" "-0"
+"light" "256"
+}
+{
+"spawnflags" "0"
+"classname" "light"
+"origin" "-64 -1152 320"
+"angle" "-0"
+"light" "256"
+}
+{
+"spawnflags" "0"
+"classname" "light"
+"origin" "128 -1216 320"
+"angle" "-0"
+"light" "256"
+}
+{
+"spawnflags" "0"
+"classname" "light"
+"origin" "64 -1216 320"
+"angle" "-0"
+"light" "256"
+}
+{
+"spawnflags" "0"
+"classname" "light"
+"origin" "-0 -1216 320"
+"angle" "-0"
+"light" "256"
+}
+{
+"spawnflags" "0"
+"classname" "light"
+"origin" "-64 -1216 320"
+"angle" "-0"
+"light" "256"
+}
+{
+"spawnflags" "0"
+"classname" "light"
+"origin" "128 -1280 320"
+"angle" "-0"
+"light" "256"
+}
+{
+"spawnflags" "0"
+"classname" "light"
+"origin" "64 -1280 320"
+"angle" "-0"
+"light" "256"
+}
+{
+"spawnflags" "0"
+"classname" "light"
+"origin" "-0 -1280 320"
+"angle" "-0"
+"light" "256"
+}
+{
+"spawnflags" "0"
+"classname" "light"
+"origin" "-64 -1280 320"
+"angle" "-0"
+"light" "256"
+}
+{
+"spawnflags" "0"
+"classname" "light"
+"origin" "96 -1952 8"
+"light" "1024"
 }
