@@ -487,7 +487,7 @@
 "style" "11"
 "classname" "light"
 "angle" "-0"
-"origin" "144 -1480 32"
+"origin" "448 -1772 32"
 "targetname" "redport"
 }
 {
@@ -1608,4 +1608,10 @@
 "classname" "light"
 "origin" "96 -1952 8"
 "light" "1024"
+}
+{
+"spawnflags" "0"
+"classname" "item_key2"
+"origin" "192 -2240 88"
+"angle" "-0"
 }
