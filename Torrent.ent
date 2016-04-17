@@ -107,7 +107,7 @@
 "spawnflags" "0"
 "classname" "info_player_start"
 "angle" "270"
-"origin" "160 288 24"
+"origin" "160 160 24"
 }
 {
 "spawnflags" "0"
@@ -417,7 +417,8 @@
 {
 "spawnflags" "0"
 "classname" "weapon_supershotgun"
-"origin" "160 -288 112"
+"origin" "560 -192 -0"
+"angle" "-0"
 }
 {
 "spawnflags" "0"
@@ -471,9 +472,9 @@
 {
 "spawnflags" "0"
 "classname" "light_globe"
-"origin" "360 -1104 224"
+"origin" "208 -1944 272"
 "angle" "-0"
-"light" "192"
+"light" "256"
 }
 {
 "spawnflags" "0"
@@ -1605,13 +1606,396 @@
 }
 {
 "spawnflags" "0"
-"classname" "light"
-"origin" "96 -1952 8"
-"light" "1024"
-}
-{
-"spawnflags" "0"
 "classname" "item_key2"
 "origin" "192 -2240 88"
 "angle" "-0"
+}
+{
+"spawnflags" "0"
+"light" "160"
+"classname" "light_torch_small_walltorch"
+"angle" "90"
+"origin" "36 -1924 92"
+}
+{
+"spawnflags" "0"
+"light" "160"
+"classname" "light_torch_small_walltorch"
+"angle" "90"
+"origin" "-100 -1924 92"
+}
+{
+"spawnflags" "0"
+"light" "160"
+"classname" "light_torch_small_walltorch"
+"angle" "90"
+"origin" "380 -1924 220"
+}
+{
+"spawnflags" "0"
+"light" "160"
+"classname" "light_torch_small_walltorch"
+"angle" "90"
+"origin" "516 -1924 220"
+}
+{
+"spawnflags" "0"
+"light" "160"
+"classname" "light_torch_small_walltorch"
+"angle" "90"
+"origin" "120 -2140 92"
+}
+{
+"spawnflags" "0"
+"light" "160"
+"classname" "light_torch_small_walltorch"
+"angle" "90"
+"origin" "296 -2140 92"
+}
+{
+"spawnflags" "0"
+"light" "160"
+"classname" "light_torch_small_walltorch"
+"angle" "90"
+"origin" "36 -1868 92"
+}
+{
+"spawnflags" "0"
+"light" "160"
+"classname" "light_torch_small_walltorch"
+"angle" "90"
+"origin" "-100 -1868 92"
+}
+{
+"spawnflags" "0"
+"light" "160"
+"classname" "light_torch_small_walltorch"
+"angle" "90"
+"origin" "380 -1868 220"
+}
+{
+"spawnflags" "0"
+"light" "160"
+"classname" "light_torch_small_walltorch"
+"angle" "90"
+"origin" "516 -1868 220"
+}
+{
+"spawnflags" "0"
+"light" "160"
+"classname" "light_torch_small_walltorch"
+"angle" "90"
+"origin" "24 -2052 92"
+}
+{
+"spawnflags" "0"
+"light" "160"
+"classname" "light_torch_small_walltorch"
+"angle" "90"
+"origin" "-88 -2052 92"
+}
+{
+"spawnflags" "0"
+"light" "160"
+"classname" "light_torch_small_walltorch"
+"angle" "90"
+"origin" "392 -2028 92"
+}
+{
+"spawnflags" "0"
+"light" "160"
+"classname" "light_torch_small_walltorch"
+"angle" "90"
+"origin" "504 -2028 92"
+}
+{
+"spawnflags" "0"
+"light" "160"
+"classname" "light_torch_small_walltorch"
+"angle" "90"
+"origin" "296 -2164 124"
+}
+{
+"spawnflags" "0"
+"light" "160"
+"classname" "light_torch_small_walltorch"
+"angle" "90"
+"origin" "120 -2164 124"
+}
+{
+"spawnflags" "0"
+"classname" "light_flame_large_yellow"
+"origin" "-112 -2272 172"
+"angle" "-0"
+"light" "384"
+}
+{
+"spawnflags" "0"
+"classname" "light_flame_large_yellow"
+"origin" "528 -2272 172"
+"angle" "-0"
+"light" "384"
+}
+{
+"spawnflags" "0"
+"classname" "light_globe"
+"origin" "208 -1944 108"
+"angle" "-0"
+"light" "256"
+}
+{
+"spawnflags" "0"
+"classname" "light_flame_large_yellow"
+"origin" "-112 -1936 252"
+"angle" "270"
+"light" "384"
+}
+{
+"spawnflags" "0"
+"classname" "weapon_nailgun"
+"origin" "-256 -192 -0"
+}
+{
+"spawnflags" "0"
+"classname" "item_health"
+"origin" "288 -2128 -0"
+}
+{
+"spawnflags" "0"
+"classname" "weapon_supershotgun"
+"origin" "-32 -1984 176"
+}
+{
+"spawnflags" "0"
+"classname" "weapon_nailgun"
+"origin" "400 -1744 224"
+}
+{
+"spawnflags" "0"
+"classname" "weapon_grenadelauncher"
+"origin" "304 -1088 192"
+}
+{
+"spawnflags" "0"
+"classname" "light"
+"origin" "448 -640 320"
+"angle" "-0"
+"light" "256"
+}
+{
+"spawnflags" "0"
+"classname" "light"
+"origin" "448 -768 320"
+"angle" "-0"
+"light" "256"
+}
+{
+"spawnflags" "0"
+"classname" "light"
+"origin" "448 -896 320"
+"angle" "-0"
+"light" "256"
+}
+{
+"spawnflags" "0"
+"classname" "light"
+"origin" "448 -1408 320"
+"angle" "-0"
+"light" "256"
+}
+{
+"spawnflags" "0"
+"classname" "light"
+"origin" "448 -1536 320"
+"angle" "-0"
+"light" "256"
+}
+{
+"spawnflags" "0"
+"classname" "light"
+"origin" "448 -1664 320"
+"angle" "-0"
+"light" "256"
+}
+{
+"spawnflags" "0"
+"classname" "light"
+"origin" "384 -1216 320"
+"angle" "-0"
+"light" "256"
+}
+{
+"spawnflags" "0"
+"classname" "light"
+"origin" "384 -1088 320"
+"angle" "-0"
+"light" "256"
+}
+{
+"spawnflags" "0"
+"classname" "light"
+"origin" "384 -960 320"
+"angle" "-0"
+"light" "256"
+}
+{
+"spawnflags" "0"
+"light" "160"
+"classname" "light_torch_small_walltorch"
+"angle" "90"
+"origin" "516 -1652 92"
+}
+{
+"spawnflags" "0"
+"light" "160"
+"classname" "light_torch_small_walltorch"
+"angle" "90"
+"origin" "380 -1652 92"
+}
+{
+"spawnflags" "0"
+"classname" "weapon_lightning"
+"origin" "544 -1152 -128"
+}
+{
+"spawnflags" "0"
+"classname" "item_shells"
+"origin" "-272 -1088 -128"
+}
+{
+"spawnflags" "0"
+"classname" "item_shells"
+"origin" "-272 -1200 -128"
+}
+{
+"spawnflags" "0"
+"classname" "item_shells"
+"origin" "-272 -208 128"
+}
+{
+"spawnflags" "0"
+"classname" "item_spikes"
+"origin" "560 -208 128"
+}
+{
+"spawnflags" "0"
+"light" "160"
+"classname" "light_torch_small_walltorch"
+"angle" "90"
+"origin" "428 -1228 92"
+}
+{
+"spawnflags" "0"
+"light" "160"
+"classname" "light_torch_small_walltorch"
+"angle" "90"
+"origin" "212 -948 92"
+}
+{
+"spawnflags" "0"
+"light" "160"
+"classname" "light_torch_small_walltorch"
+"angle" "90"
+"origin" "428 -948 92"
+}
+{
+"spawnflags" "0"
+"light" "160"
+"classname" "light_torch_small_walltorch"
+"angle" "90"
+"origin" "212 -1228 92"
+}
+{
+"spawnflags" "0"
+"light" "160"
+"classname" "light_torch_small_walltorch"
+"angle" "90"
+"origin" "168 -2284 124"
+}
+{
+"spawnflags" "0"
+"light" "160"
+"classname" "light_torch_small_walltorch"
+"angle" "90"
+"origin" "232 -2284 124"
+}
+{
+"spawnflags" "0"
+"classname" "item_health"
+"origin" "96 -2128 -0"
+}
+{
+"spawnflags" "0"
+"classname" "item_armor1"
+"origin" "448 -2032 -0"
+"angle" "90"
+}
+{
+"spawnflags" "0"
+"classname" "item_armor1"
+"origin" "160 304 -0"
+"angle" "-90"
+}
+{
+"spawnflags" "0"
+"classname" "item_armorInv"
+"origin" "-160 -1488 224"
+}
+{
+"spawnflags" "0"
+"classname" "light_flame_large_yellow"
+"origin" "-160 -720 28"
+"angle" "-0"
+"light" "384"
+}
+{
+"spawnflags" "0"
+"classname" "item_armorInv"
+"origin" "-160 -720 96"
+"angle" "-0"
+}
+{
+"spawnflags" "0"
+"classname" "item_cells"
+"origin" "80 -1504 224"
+}
+{
+"spawnflags" "0"
+"classname" "item_cells"
+"origin" "-0 -656 96"
+}
+{
+"spawnflags" "0"
+"classname" "weapon_supernailgun"
+"origin" "384 -608 128"
+}
+{
+"spawnflags" "0"
+"classname" "weapon_supernailgun"
+"origin" "256 -1440 192"
+}
+{
+"spawnflags" "0"
+"classname" "item_rockets"
+"origin" "576 -272 -0"
+}
+{
+"spawnflags" "0"
+"classname" "item_rockets"
+"origin" "-272 -272 -0"
+}
+{
+"spawnflags" "0"
+"classname" "item_rockets"
+"origin" "-272 -1856 -0"
+}
+{
+"spawnflags" "0"
+"classname" "item_rockets"
+"origin" "576 -1856 -0"
+}
+{
+"spawnflags" "0"
+"classname" "item_health"
+"origin" "480 -1760 128"
 }
