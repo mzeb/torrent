@@ -12,7 +12,7 @@
 ///////////////////////////////////////////////
 // Capture the flag mods
 {
-"origin" "160 104 160"
+"origin" "192 -2240 88"
 "classname" "item_flag_team1"
 }
 ///////
@@ -24,7 +24,7 @@
 ///////
 
 {
-"origin" "160 40 160"
+"origin" "160 304 152"
 "classname" "item_flag_team2"
 "angle" "90"
 }
@@ -475,12 +475,6 @@
 "origin" "208 -1944 272"
 "angle" "-0"
 "light" "256"
-}
-{
-"spawnflags" "0"
-"classname" "item_key1"
-"origin" "176 320 156"
-"angle" "-0"
 }
 {
 "spawnflags" "0"
@@ -1977,25 +1971,60 @@
 {
 "spawnflags" "0"
 "classname" "item_rockets"
-"origin" "576 -272 -0"
+"origin" "560 -288 -0"
 }
 {
 "spawnflags" "0"
 "classname" "item_rockets"
-"origin" "-272 -272 -0"
+"origin" "-256 -288 -0"
 }
 {
 "spawnflags" "0"
 "classname" "item_rockets"
-"origin" "-272 -1856 -0"
+"origin" "-256 -1840 -0"
 }
 {
 "spawnflags" "0"
 "classname" "item_rockets"
-"origin" "576 -1856 -0"
+"origin" "560 -1840 -0"
 }
 {
 "spawnflags" "0"
 "classname" "item_health"
 "origin" "480 -1760 128"
+}
+{
+"spawnflags" "0"
+"classname" "item_shells"
+"origin" "224 -1104 192"
+}
+{
+"spawnflags" "0"
+"classname" "item_spikes"
+"origin" "432 -1248 192"
+}
+{
+"spawnflags" "0"
+"classname" "item_spikes"
+"origin" "208 -944 192"
+}
+{
+"spawnflags" "0"
+"classname" "item_key1"
+"origin" "160 304 152"
+"angle" "270"
+}
+{
+"spawnflags" "0"
+"light" "160"
+"classname" "light_torch_small_walltorch"
+"angle" "90"
+"origin" "380 -1676 92"
+}
+{
+"spawnflags" "0"
+"light" "160"
+"classname" "light_torch_small_walltorch"
+"angle" "90"
+"origin" "516 -1676 92"
 }
