@@ -4,11 +4,6 @@
 "classname" "worldspawn"
 "message" "Torrent"
 }
-{
-"classname" "info_player_start"
-"origin" "160 288 24"
-"angle" "270"
-}
 ///////////////////////////////////////////////
 // Capture the flag mods
 
@@ -202,12 +197,6 @@
 }
 
 //regular entites
-{
-"spawnflags" "0"
-"classname" "info_player_start"
-"angle" "270"
-"origin" "160 160 24"
-}
 {
 "spawnflags" "0"
 "classname" "item_health"
